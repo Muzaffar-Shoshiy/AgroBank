@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.shutterstock.com/image-photo/surreal-image-african-elephant-wearing-260nw-1365289022.jpg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="./public/admin_assets/img/dbdesign.jpg" width="400" alt="DB Design"></a></p>
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
